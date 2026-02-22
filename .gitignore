@@ -1,0 +1,9 @@
+# Binary
+scaffold.exe
+scaffold
+
+# Generated test output (scaffolded projects)
+mytool/
+myapp/
+mylib/
+testproject/
